@@ -4,7 +4,7 @@ body {
     background-color: #60e1e170;;
     font-family: sans-serif;
     color: rgb(19, 0, 34);
-    padding: 0;
+    padding: 1rem;
     margin: 0;
     background-image: url(img/rom.png);
     background-repeat: no-repeat;

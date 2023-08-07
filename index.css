@@ -5,8 +5,8 @@ body {
     padding: 0;
     font-family: 'Poppins' sans-serif;
     color: #1e1e2a;
-    min-width: 100vh;
-    height: 100vh;
+    min-width: 100px;
+    height: 100px;
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
