@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    min-width: 100vh;
+    background-color: #60e1e170;;
+    font-family: sans-serif;
+    color: rgb(19, 0, 34);
+    padding: 1rem;
+    margin: 0;
+    background-image: url(img/rom.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    position: relative;
+}
+
+p {
+    font-family: sans-serif;
+}
+
